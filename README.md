@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo 👋
 
 I think this is a good place to give updates about myself. I don't know about you, but I find LinkedIn to be too formal lol. Getting started with a generic template ..
 - 🌱 I will start a Research Assistant position in the Agents and Simulated Reality department at DFKI Saarbrücken in Feb'25. I hope I'll give more than my best! 
