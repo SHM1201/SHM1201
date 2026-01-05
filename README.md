@@ -2,7 +2,7 @@
 
 I think this is a good place to give updates about myself. I don't know about you, but I find LinkedIn to be too formal lol. Getting started with a generic template ..
 - 🌱 I have started as a Research Assistant at the Societal Computing department at Uni in May'25 and have already been working at the DFKI since Feb'25. I hope I'll give more than my best! 
-- 🔭 I’m currently taking a deep dive into the core Machine Learning and the Trustworthy Machine Learning Course @UdS, ngl it is exhausting 😭...
+- 🔭 I’m currently taking a deep dive into the Neural Networks: Theory and Implementation Course and the Elements of Machine Learning Course @UdS, ngl it is exhausting 😭...
 - TBH✨, too many things interest me, and there are many things I would want to work on. But one thing is for sure, I am always interested in applying AI for good causes :). In general generative AI, extended reality, and AI Safety are the topics I feel will have quite a big impact. 
 <!--
 **SHM1201/SHM1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
